@@ -6,7 +6,7 @@
 
 Comprehensive business analytics and financial analysis of Netflix examining content strategy, subscriber metrics, revenue trends, and regional performance across global markets. Developed predictive models for subscription growth, content ROI, and churn risk assessment. Analysis integrates multiple data sources including subscriber demographics, content performance metrics, and financial data with machine learning algorithms for actionable insights.
 
-### Amazon JD Alignment
+
 
 • **Advanced Data Analysis**: Multi-dimensional analysis of 10,000+ content titles, subscriber segmentation by 150+ geographic regions
 • **Large-Scale Dataset Processing**: Processing 500K+ subscriber records, 50K+ content performance metrics
