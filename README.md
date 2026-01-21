@@ -1,5 +1,8 @@
 # Netflix Business Analytics Project
 
+> **📊 [View Complete Data Visualizations](outputs/VISUALIZATIONS_COMPLETE.md)** - Interactive charts, KPIs & strategic insights
+
+
 ## Comprehensive Streaming Platform Analysis: Content Strategy & Financial Performance
 
 ### Project Overview
